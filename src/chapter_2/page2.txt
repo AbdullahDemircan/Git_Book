@@ -1,3 +1,4 @@
-VCS version control system
+VCS version control system.
 
-platform to post remote repositories
+platform to post remote repositories.
+
